@@ -24,6 +24,5 @@ Welcome to my GitHub profile! I'm an enthusiastic developer and a lifelong learn
 📫 How to reach me:
 
     Feel free to connect with me on LinkedIn.
-    Drop me an email at ......
 
 Thank you for visiting my profile! Let's connect and explore the vast world of technology together.
